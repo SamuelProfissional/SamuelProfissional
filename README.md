@@ -8,13 +8,14 @@
 ###### Título 6
 !-->
 *italico* ou _italico_
+
 **Negrito** ou __negrito__
 
 ___nerito e italico___
 
--Lista 1
--Lista 2
- -Sublista
+- Lista 1
+- Lista 2
+ - Sublista
 
 <!--
 **SamuelProfissional/SamuelProfissional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
