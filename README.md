@@ -21,7 +21,7 @@
 
 --------
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelProfissional&show_icons=true&theme=radical)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelProfissional&show_icons=true&theme=onedark)
 
 
 
