@@ -1,47 +1,28 @@
-## Hi there 👋
-<!-- Cabeçalhos !-->
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+##  Seja Bem-Vindos ao Meu Perfil
 
-*italico* ou _italico_
+![Imagem Back-End](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROsYWw6cNT01INdX7aL8J0lzQ7lRfYe07soMgeOOuqtfn2ylLZLpBXnxoJmJEDYLeNVAM&usqp=CAU)
 
-**Negrito** ou __negrito__
+👋 Olá, me chamo Samuel
 
-___nerito e italico___
-
-- Lista 1
-- Lista 2
- - Sublista
-
- 1. Lista 1
- 2. Lista 2
-    1. Sublista
-
-    [Texto da imagem ](https://content.nationalgeographic.pt/medio/2023/05/28/13_b38c6aba_230528193848_1000x666.jpg)
+💬 Sou estudnde de Análise e Desenvolvimento de Sistemas 
 
 
-    ![Texto da imagem](https://content.nationalgeographic.pt/medio/2023/05/28/13_b38c6aba_230528193848_1000x666.jpg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px"> -> SamuelProfissional
+
+------
+
+## Minhas Tecnologias
+
+<p aligi="center>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"width="100px">
+</p>
+
+--------
 
 
-    `System.out.println();`
-
-```System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();System.out.println();```
-
-> Teste da Citações
-
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------| 
-| texto 1     | texto 2     |
-| texto 3     | texto 4     |
-
-
-- [x] tarefa 1
-- [] tarefa 2
-
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelProfissionalshow_icons=true&theme=radical)
 
 
 
