@@ -1,6 +1,7 @@
 ##  Seja Bem-Vindos ao Meu Perfil
-
+<p aligi="center>
 ![Imagem Back-End](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROsYWw6cNT01INdX7aL8J0lzQ7lRfYe07soMgeOOuqtfn2ylLZLpBXnxoJmJEDYLeNVAM&usqp=CAU)
+<
 
 👋 Olá, me chamo Samuel
 
@@ -16,6 +17,7 @@
 <p aligi="center>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"width="100px">
 </p>
 
